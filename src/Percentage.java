@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Percentage {
+public class Percentage{
+    public void calculatePercentage(){
+
+    }
 }
