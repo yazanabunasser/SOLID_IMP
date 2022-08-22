@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Student {
+public class Student{
+    public void addStudent() {
+
+    }
+
 }

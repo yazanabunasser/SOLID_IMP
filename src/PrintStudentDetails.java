@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class PrintStudentDetails {
+public class PrintStudentDetails{
+    public void printDetails(){
+
+    }
 }
