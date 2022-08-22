@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a141d5bc-a98f-4606-88fe-4429bf063b9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Percentage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Percentage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintStudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintStudentDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
       <workItem from="1661163706566" duration="5183000" />
       <workItem from="1661171391548" duration="277000" />
       <workItem from="1661171791875" duration="39000" />
+      <workItem from="1661184912791" duration="735000" />
     </task>
     <servers />
   </component>
