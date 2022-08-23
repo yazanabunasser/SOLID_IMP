@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a141d5bc-a98f-4606-88fe-4429bf063b9e" name="Changes" comment="" />
+    <list default="true" id="a141d5bc-a98f-4606-88fe-4429bf063b9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertCharToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertIntChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertIntDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,6 +60,7 @@
       <workItem from="1661171391548" duration="277000" />
       <workItem from="1661171791875" duration="39000" />
       <workItem from="1661184912791" duration="3593000" />
+      <workItem from="1661244619919" duration="1238000" />
     </task>
     <servers />
   </component>
