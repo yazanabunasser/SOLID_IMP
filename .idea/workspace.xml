@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a141d5bc-a98f-4606-88fe-4429bf063b9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WindowsMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +55,7 @@
       <workItem from="1661171391548" duration="277000" />
       <workItem from="1661171791875" duration="39000" />
       <workItem from="1661184912791" duration="3593000" />
-      <workItem from="1661244619919" duration="3531000" />
+      <workItem from="1661244619919" duration="4131000" />
     </task>
     <servers />
   </component>
